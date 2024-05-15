@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1703002877 source:c:\users\anask\documents\c\project\gestionhop\hospital\main.c
+	<stdio.h>
+	"patient.h"
+
+1703002831 c:\users\anask\documents\c\project\gestionhop\hospital\patient.h
+
+1703003080 source:c:\users\anask\documents\c\project\gestionhop\hospital\patient.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.h"
+
